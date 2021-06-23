@@ -1,16 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: /index.php
+  - source: /
     destination: /var/www/html/
-  - source: /style.css
-    destination: /var/www/html/
-  - source: /css
-    destination: /var/www/html/
-  - source: /images
-    destination: /var/www/html/
-  - source: /js
-    destination: /var/www/html/
-  - source: /less
-    destination: /var/www/html/
-    

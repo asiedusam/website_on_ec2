@@ -3,14 +3,14 @@ os: linux
 files:
   - source: /index.php
     destination: /var/www/html/
-    source: /style.css
+  - source: /style.css
     destination: /var/www/html/
-    source: /css
+  - source: /css
     destination: /var/www/html/
-    source: /images
+  - source: /images
     destination: /var/www/html/
-    source: /js
+  - source: /js
     destination: /var/www/html/
-    source: /less
+  - source: /less
     destination: /var/www/html/
     
